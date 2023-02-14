@@ -1,6 +1,6 @@
-# BOATS v1: BiOeconomic mArine Trophic Size-spectrum Model 
+# BOATS v1.x: BiOeconomic mArine Trophic Size-spectrum Model 
 
-BOATS-1.0: The BiOeconomic mArine Trophic Size-spectrum model. A bioenergetically-constrained coupled fisheries-economics model for global studies of fishing and climate change.
+BOATS-1.x: The BiOeconomic mArine Trophic Size-spectrum model. A bioenergetically-constrained coupled fisheries-economics model for global studies of fishing and climate change.
 
 # Version
 
